@@ -1,0 +1,4 @@
+module.exports = {
+    USERNAME: "YOUR USERNAME",
+    PASSWORD: "YOUR SUPER SECRET PASSWORD"
+}
